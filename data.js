@@ -2,8 +2,8 @@
 const studentData = {
   // Personal Information
   personal: {
-    name: "Alex Johnson",
-    title: "Computer Science Student",
+    name: "Rojit aryal",
+    title: "Computer ommm",
     description:
       "Passionate about creating innovative solutions through code. Currently pursuing my degree in Computer Science with a focus on web development and artificial intelligence.",
     profileImage: "/placeholder.svg?height=300&width=300",
